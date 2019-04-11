@@ -1,6 +1,6 @@
 # iTerm2 Material Design - Palenight Theme
 
-This is an iTerm2 color scheme based on the Palenight theme by [Mattia Astorino](http://equinsuocha.io/material-theme/#/default).
+This is an iTerm2 color scheme based on the Palenight theme by [Mattia Astorino](https://material-theme.site/).
 
 ![terminal](palenight_screenshot.png)
 
@@ -17,6 +17,7 @@ This is an iTerm2 color scheme based on the Palenight theme by [Mattia Astorino]
 - [Consolas](https://www.fonts.com/font/microsoft-corporation/consolas/regular)
 - [Roboto Mono](http://www.1001freefonts.com/roboto_mono.font)
 - [Fira Code](https://github.com/tonsky/FiraCode)
+- [Operator Mono](https://www.typography.com/fonts/operator/overview/)
 
 ## Color Scheme Palettes
 
